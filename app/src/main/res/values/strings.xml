@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Grid</string>
+    <string name="motivate1">Html </string>
+    <string name="motivate2">CSS</string>
+    <string name="motivate3"> Bootstrap </string>
+    <string name="motivate4">JS </string>
+    <string name="motivate5">Node </string>
+    <string name="motivate6">React </string>
+    <string name="motivate7">PHP </string>
+    <string name="motivate8">Vue </string>
+    <string name="motivate9">Laravel </string>
+    <string name="motivate10">inertia </string>
+    <string name="motivate11">C++ </string>
+    <string name="motivate12">Python </string>
+    <string name="motivate13">Kotlin </string>
+    <string name="motivate14">Flutter </string>
+    <string name="motivate15">Mysql </string>
+    <string name="motivate16">MongoDB </string>
+    <string name="motivate17">Java </string>
+    <string name="motivate18">Angular </string>
+    <string name="motivate19">Tailwind </string>
+    <string name="motivate20">Vue </string>
+</resources>
